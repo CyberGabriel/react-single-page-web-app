@@ -1,0 +1,8 @@
+.product-item img {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.productLink, .productLink:hover {
+    color: rgb(0, 32, 63);
+}

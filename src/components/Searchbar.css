@@ -1,0 +1,34 @@
+#searchBar {
+    left: 5px;
+    top: 40px;
+    width: 15vw;
+    min-width: 225px;
+    border-radius: 5px;
+}
+
+.searchbarDisplay {
+    position: relative;
+}
+
+.searchResultsDrop {
+    position: absolute;
+    border: solid 2px;
+    border-radius: 5px;
+    width: 15vw;
+    min-width: 225px;
+    background-color: white;
+    z-index: 1;
+}
+
+.searchResultsDrop img {
+    max-width: 7vw;
+    min-width: 100px;
+}
+
+.dropLink {
+    color: rgb(0, 32, 63);
+}
+
+.dropLink:hover {
+    color: rgb(172, 106, 21);
+}

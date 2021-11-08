@@ -1,0 +1,28 @@
+footer svg {
+    width: 24px;
+    height: 24px;
+}
+
+@media (max-width: 768px) {
+    footer > div {
+        flex-direction: column;
+    }
+
+    footer .footer-group{
+        margin-bottom: 1.5rem;
+    }
+}
+
+footer {
+    box-shadow: 0 -0.5rem 1rem rgba(0, 0, 0, 0.15);
+    background-color: var(--main-color);
+    color: rgb(0, 32, 63)
+}
+
+.footerLink {
+    color: rgb(0, 32, 63)
+}
+
+.footerLink:hover {
+    color: var(--on-hover);
+}

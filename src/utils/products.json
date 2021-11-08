@@ -1,0 +1,408 @@
+{
+    "bikes": {
+        "items": [
+            {
+                "id": 1,
+                "name": "2021 Fat Bob 114",
+                "price": 16200,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/hU62ral.jpeg",
+                "size": "1868cc",
+                "colour": "Deadwood Green Denim",
+                "material": "Iron",
+                "brand": "Harley Davidson",
+                "description": "A street-eater with an appetite for power. Built with muscular style and performance.",
+                "keywords": "bike, bikes, motorcycle, motorcycles, fat bob, harley davidson"
+            },
+            {
+                "id": 2,
+                "name": "Bonneville Bobber",
+                "price": 10600,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/ClhmGti.jpg",
+                "size": "1200cc",
+                "colour": "Black",
+                "material": "Iron",
+                "brand": "Triumph",
+                "description": "Authentic, innovative, agile and exciting. A classic look with modern technology.",
+                "keywords": "bike, bikes, motorcycle, motorcycles, bonneville, bobber, triumph"
+            },
+            {
+                "id": 3,
+                "name": "Chief Dark Horse",
+                "price": 14700,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/cOymV8x.jpg",
+                "size": "1890cc",
+                "colour": "Black Smoke",
+                "material": "Iron",
+                "brand": "Indian",
+                "description": "Timeless design, legendary past, and unobtrusive modern technology. A step up in power and menace.",
+                "keywords": "bike, bikes, motorcycle, motorcycles, chief dark horse, indian"
+            },
+	    {
+                "id": 4,
+                "name": "Honda Rebel CMX500",
+                "price": 7550,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/PY0ix28.jpg",
+                "size": "500cc",
+                "colour": "Matte Jeans Blue Metallic",
+                "material": "Iron",
+                "brand": "Honda",
+                "description": "Escape the ordinary! Honda Rebel 500 is a bike that breaks out from the world of traditional motorcycle style and escapes from the boring boulevard drone.",
+                "keywords": "bike, bikes, motorcycle, motorcycles, honda rebel 500, honda, cmx"
+            },
+	    {
+                "id": 5,
+                "name": "Harley Davidson CVO Breakout 1/12 Model",
+                "price": 75,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/6kWjYgH.jpg",
+                "size": "1801cc",
+                "colour": "Orange",
+                "material": "Diecast metal/plastic",
+                "brand": "Harley Davidson",
+                "description": "Brand new 1/12 scale motorcycle model of 2014 Harley Davidson CVO Breakout Orange.",
+                "keywords": "bike, bikes, motorcycle, motorcycles, harley davidson breakout, model, cvo, orange"
+            },
+	    {
+                "id": 6,
+                "name": "Harley Davidson Road King Classic 1/12 Model",
+                "price": 125,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/b8Ah8ub.jpg",
+                "size": "1688cc",
+                "colour": "Black",
+                "material": "Diecast metal/plastic",
+                "brand": "Harley Davidson",
+                "description": "Brand new 1/12 scale motorcycle model of 2013 Harley Davidson FLHRC Road King Classic.",
+                "keywords": "bike, bikes, motorcycle, motorcycles, harley davidson road king classic, model"
+            }
+        ],
+        "image": "https://i.imgur.com/IaVusMy.jpg",
+        "name": "Motorcycles",
+        "description": "Top cruisers for street rides"
+    },
+    "jackets": {
+        "items": [
+            {
+                "id": 7,
+                "name": "American Classic Biker Jacket",
+                "price": 99,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/ANkmf0M.jpg",
+                "size": "L",
+                "colour": "Brown",
+                "material": "Leather",
+                "brand": "American Classic",
+                "description": "A classic design leather jacket which never looks dated. It has a removable thermal lining for summer and winter wear.",
+		"keywords": "jacket, jackets, leather, american classic"
+            },
+            {
+                "id": 8,
+                "name": "Chase Squad Leather Jacket",
+                "price": 179,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/9DUMvQF.jpg",
+                "size": "L",
+                "colour": "Black",
+                "material": "Leather",
+                "brand": "Chase Squad",
+                "description": "A Genuine Lambskin Leather Jacket made in USA for those true riders that crave the oldschool look and feel.",
+		"keywords": "jackets, jacket, leather, chase, squad"
+            },
+            {
+                "id": 9,
+                "name": "Vintage Distressed Brown Leather Jacket",
+                "price": 149,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/ufx5EbE.jpg",
+                "size": "M",
+                "colour": "Brown",
+                "material": "Leather",
+                "brand": "RealStar",
+                "description": "Get that sexy bad boy look with this Vintage Distressed Brown Leather Jacket that comes with a perfect lining and multiple pockets.",
+		"keywords": "jackets, jacket, leather, vintage, distressed, realstar"
+            },
+            {
+                "id": 10,
+                "name": "Casual Motorbike Leather Jacket",
+                "price": 269,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/k7oUl52.jpg",
+                "size": "XL",
+                "colour": "Black",
+                "material": "Cowhide/Lambskin Leather",
+                "brand": "Deckra",
+                "description": "Handcrafted from 100% high quality genuine lambskin leather this jacket is sure to offer you the comfort you need.",
+		"keywords": "jackets, jacket, leather, casual, deckra"
+            }
+        ],
+        "image": "https://i.imgur.com/eU8ligt.jpg",
+        "name": "Jackets",
+        "description": "Stylish quality leather"
+    },
+    "pants": {
+        "items": [
+            {
+                "id": 11,
+                "name": "Halvarssons Weatherproof Leather Trousers",
+                "price": 429,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/SYPYlix.jpg",
+                "size": "36",
+                "colour": "Black",
+                "material": "Leather",
+                "brand": "Halvarssons",
+                "description": "Halvarssons C Pants Weatherproof Leather Motorcycle Trousers conform to the latest CE AAA and are made from water-repellent cowhide to make your journey more comfortable.",
+		"keywords": "pants, leather, halvarssons, weatherproof, trousers"
+            },
+            {
+                "id": 12,
+                "name": "BMW Motorcycle Jeans",
+                "price": 221,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/JRHFOPl.jpg",
+                "size": "34",
+                "colour": "Gray",
+                "material": "Cotton/Polyester/Cordura/Kevlar",
+                "brand": "BMW Motorrad",
+                "description": "Highly fashionable casual BMW Motorcycle Jeans that can be used both on and off the bike. They come with a 2 year BMW warranty.",
+		"keywords": "pants, jeans, kevlar, bmw, motorrad"
+            },
+            {
+                "id": 13,
+                "name": "Duhan Adventure Pants",
+                "price": 175,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/82BImuX.jpg",
+                "size": "36",
+                "colour": "White",
+                "material": "Polyester/Mesh",
+                "brand": "Duhan",
+                "description": "Duhan Adventure motorcycle pants for racing in summer. Keeps you cool while the certified protective pads keeps you safe.",
+		"keywords": "pants, duhan, mesh, adventure"
+            },
+            {
+                "id": 14,
+                "name": "Garibaldi Tourland 3 Layer Pants",
+                "price": 99,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/iM8QYZG.jpg",
+                "size": "38",
+                "colour": "Grey",
+                "material": "Polyester/Polyammide",
+                "brand": "Garibaldi",
+                "description": "Tourland 3 Layers by Garibaldi are breathable and waterproof adventure trousers that satisfy the need to have protective wear with excellent comfort and look.",
+		"keywords": "pants, trousers, garibaldi, adventure, tourland"
+            },
+            {
+                "id": 15,
+                "name": "Fashio FF Aramid Jeans",
+                "price": 349,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/W6PVpKS.jpg",
+                "size": "38",
+                "colour": "Blue",
+                "material": "Cotton/Kevlar/Aramid",
+                "brand": "Fashio FF",
+                "description": "Tourland 3 Layers by Garibaldi are breathable and waterproof adventure trousers that satisfy the need to have protective wear with excellent comfort and look.",
+		"keywords": "pants, jeans, denim, fashio, aramid"
+            }
+        ],
+        "image": "https://i.imgur.com/4nrPZuR.jpg",
+        "name": "Pants",
+        "description": "Perfect fit for all seasons"
+    },
+    "boots": {
+        "items": [
+            {
+                "id": 16,
+                "name": "Shima Thomson Leather Boots",
+                "price": 180,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/hRkRUMx.jpg",
+                "size": "10",
+                "colour": "Black",
+                "material": "Leather",
+                "brand": "Shima Thomson",
+                "description": "Shima Thomson Motorcycle Boots for Men made from reinforced Leather with side zipper and ankle support, anti-slip sole and gear shift handle.",
+		"keywords": "boots, leather, shima, thomson"
+            },
+            {
+                "id": 17,
+                "name": "TCX X Blend Waterproof Boots",
+                "price": 133,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/9yzntjQ.jpg",
+                "size": "8",
+                "colour": "Brown",
+                "material": "Leather",
+                "brand": "TCX",
+                "description": "With a retro look TCX X Blend waterproof leather Boots come with ankle and heels reinforcements for protection while still being comfortable enough for off the bike wear.",
+		"keywords": "boots, leather, tcx, blend, waterproof, retro"
+            },
+            {
+                "id": 18,
+                "name": "Sidi Adventure 2 Gore-Tex",
+                "price": 323,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/0Em4FhN.jpg",
+                "size": "9",
+                "colour": "Black",
+                "material": "Microfiber Full Grain",
+                "brand": "Sidi",
+                "description": "Sidi Adventure 2 Gore Tex Road boots incorporate the essential feature of the original Sidi Boots with updates. The non-slip rubber and waterproof material offer a better feeling while standing on the off-road pegs.",
+		"keywords": "boots, microfiber, sidi, waterproof, adventure, tex, gore, grain, non slip"
+            },
+            {
+                "id": 19,
+                "name": "Benkia Waterproof Boots",
+                "price": 95,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/FwnJDZu.jpg",
+                "size": "9",
+                "colour": "Black",
+                "material": "Canvas/Rubber",
+                "brand": "Benkia",
+                "description": "Benkia waterproof motorcycle boots for off-road racing offers you maximum comfort while the ankle and heel protections ensures a safe ride.",
+		"keywords": "boots, benkia, waterproof, racing"
+            },
+            {
+                "id": 20,
+                "name": "Stylmartin Rocket Boots",
+                "price": 299,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/VBn6pAu.jpg",
+                "size": "11",
+                "colour": "Brown",
+                "material": "Leather",
+                "brand": "Stylmartin",
+                "description": "Stylmartin Rocket Boots will blast you into a world of style and comfort thanks to its full grain leather upper and anatomic footbed.",
+		"keywords": "boots, stylmartin, rocket, leather"
+            }
+        ],
+        "image": "https://i.imgur.com/NMhd3O4.jpg",
+        "name": "Boots",
+        "description": "Comfortable and durable"
+    },
+    "helmets": {
+        "items": [
+            {
+                "id": 21,
+                "name": "The Rogue Bell Helmet",
+                "price": 350,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/xrBNRvo.jpg",
+                "size": "M",
+                "colour": "Black with stars design",
+                "material": "Fiberglass",
+                "brand": "Bell",
+                "description": "Stand out from the crowd. The Rogue combines raw attitude and real-world practicality in one badass helmet!",
+		"keywords": "helmets, helmet, fiberglass, rogue, bell"
+            },
+            {
+                "id": 22,
+                "name": "Retro Motorcycle Half Face Helmet",
+                "price": 190,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/1haDe9T.jpg",
+                "size": "L",
+                "colour": "Black",
+                "material": "Polycarbonate Plastic",
+                "brand": "Zombies Racing",
+                "description": "With an integrated sunshield retractable visor the Retro Half Face Helmet is suited for touring bikes, cruisers or scooters.",
+		"keywords": "helmets, helmet, polycarbonate, retro, half face, zombies racing"
+            },
+            {
+                "id": 23,
+                "name": "Good Girl Gone Bad Daytona Helmet",
+                "price": 278,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/ty39Ame.jpg",
+                "size": "S",
+                "colour": "Black with winged heart design",
+                "material": "Kevlar",
+                "brand": "GGGB Daytona",
+                "description": "A stylish cruiser helmet for ladies in a matte black finish with a light pink heart and wings and a retro center race stripe.",
+		"keywords": "helmets, helmet, kevlar, good girl, daytona"
+            },
+            {
+                "id": 24,
+                "name": "Bell Broozer Helmet",
+                "price": 99,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/SuWxjqH.jpg",
+                "size": "M",
+                "colour": "Black with stripes",
+                "material": "Polycarbonate",
+                "brand": "Bell",
+                "description": "A brutal combination of attitude, style, and functionality makes the Broozer a true streetfighter. Dual-certified for both full-face and open-face riding thanks to the removable chin bar and integrated drop-down shield.",
+		"keywords": "helmets, helmet, bell, broozer"
+            }
+        ],
+        "image": "https://i.imgur.com/TLeWGte.jpg",
+        "name": "Helmets",
+        "description": "Your safety comes first"
+    },
+    "maintenance": {
+        "items": [
+            {
+                "id": 25,
+                "name": "Motul 7100 Synthetic 4T Engine Oil",
+                "price": 22,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/EF1ks7i.jpg",
+                "size": "1 Litre",
+                "colour": "clear",
+                "material": "Synthetic",
+                "brand": "Motul",
+                "description": "Motul 7100 10W50 motorcycle engine oil is 100% synthetic and takes advantage of the ESTER Core Technology to ensure your motorcycle gives out maximum power output.",
+		"keywords": "engine oil, motorcycle oil, synthetic, motul"
+            },
+            {
+                "id": 26,
+                "name": "ANAHAF Oil Filter 303 2-pack",
+                "price": 38,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/B0bWQKT.jpg",
+                "size": "2.9 in/2.6 in",
+                "colour": "Black",
+                "material": "Premium silicon components",
+                "brand": "K&N",
+                "description": "Ultra-strength oil filter housing and tri-fiber media for optimum filtration, higher capacity and improved oil flow. Designed to be used with Synthetic or Conventional Oils.",
+		"keywords": "filter, filters, oil filter, k&n, silicon"
+            },
+            {
+                "id": 27,
+                "name": "Rothewald Motorbike Tool Kit",
+                "price": 150,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/QaEWAvi.jpg",
+                "size": "500 x 580 x 40 mm (unrolled) / 250 x 140 x 80 mm (rolled)",
+                "colour": "Black",
+                "material": "steel",
+                "brand": "Rothewald",
+                "description": "Rothewald offers a relevant travel tool kit suitable for touring containing 52 pieces that will surely come in handy!",
+		"keywords": "rothewald, tool kit, toolkit, travel, wrenches, keys"
+            },
+            {
+                "id": 28,
+                "name": "BMW CAN-BUS Battery Charger",
+                "price": 275,
+                "currency": "EUR",
+                "image": "https://i.imgur.com/0DPNS2O.jpg",
+                "size": "135 x 120 x 50 mm",
+                "colour": "Black",
+                "material": "lithium ion",
+                "brand": "BMW",
+                "description": "Keep your battery alive throughout the year with the new BMW Motorrad Battery Charger Plus that allows for fully automatic, microprocessor-controlled charging.",
+		"keywords": "bmw, motorrad, battery, charger"
+            }
+        ],
+        "image": "https://i.imgur.com/WXemum0.jpeg",
+        "name": "Maintenance",
+        "description": "All the tools you need"
+    }
+}

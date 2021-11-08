@@ -1,0 +1,11 @@
+.favorites-page img {
+    max-height: 100px;
+}
+
+.favorites-page svg {
+    cursor: pointer;
+}
+
+.favLink, .favLink:hover {
+    color: rgb(0, 32, 63);
+}

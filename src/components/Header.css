@@ -1,0 +1,123 @@
+:root {
+    --main-color: hsl(240, 17%, 91%);
+    --on-hover: hsl(34, 78%, 38%);
+}
+
+.header {
+    width: 100%;
+}
+
+.headerTop {
+    overflow: hidden;
+    position: relative;
+}
+
+.motto {
+    color: rgb(207, 159, 0);
+    
+}
+
+.header h1 {
+    color: rgb(52, 52, 185);
+}
+
+.headerTop::after {
+    content:"";
+    position:absolute;
+    top:0;
+    left:0;
+    height: 100%;
+    width:100%;
+    transform: skewY(-4.8deg);
+    background: var(--main-color);
+    transform-origin: bottom right;
+    z-index: -1;
+}
+
+.navMenu {
+    background-color: var(--main-color);
+    box-shadow: 0 1.6rem 0.8rem -1.2rem rgba(0, 0, 0, 0.15);
+}
+
+.searchIcon {
+    left: 65px;
+    top: 20px;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 1400px) {
+    .header h3 {
+        opacity: 0;
+        transition: 0.3s;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .header h3 {
+        display: none;
+    }
+    .header img {
+        width: 225px;
+        height: auto;
+        transition: 0.3s;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .header img {
+        width: 150px;
+        height: auto;
+        transition: 0.3s;
+    }
+    .navBarComp {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 767px) {
+    .navDrop {
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 499px) {
+    .header h1 {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 499px) {
+    .header h1 {
+        font-size: 2.5vw;
+    }
+    .header h3 {
+        font-size: 1vw;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    .header img {
+        width: 300px;
+        height: auto;
+        transition: 0.3s;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .header h3 {
+        opacity: 1;
+        transition: 0.3s;
+    }
+}
+
+.logoutBtn {
+    cursor: pointer;
+}
+.loginBtn, .logoutBtn, h3, .counter {
+    color: rgb(0, 32, 63);
+}
+
+.loginBtn:hover, .logoutBtn:hover, .counter:hover {
+    color: var(--on-hover);
+}

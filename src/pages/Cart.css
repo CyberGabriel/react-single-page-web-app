@@ -1,0 +1,22 @@
+.cart-page img {
+    max-height: 100px;
+}
+
+.cart-page svg {
+    cursor: pointer;
+}
+
+.cartBtn {
+    color: rgb(0, 32, 63);
+    border-bottom: dashed 3px rgba(0, 32, 63, 0);
+    transition: 0.2s ease-in-out;
+}
+
+.cartBtn:hover {
+    color: rgb(172, 106, 21);
+    border-bottom: solid 3px rgba(0, 32, 63, 1);
+}
+
+.cartLink, .cartLink:hover {
+    color: rgb(0, 32, 63);
+}
