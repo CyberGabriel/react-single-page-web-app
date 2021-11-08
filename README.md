@@ -6,6 +6,7 @@ A single page web app created with ReactJS that presents dynamic content to the 
 
 You can access the project online at:
 
+https://bad-boys-bikes.herokuapp.com/
 
 ## Technologies used
 
