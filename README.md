@@ -1,8 +1,8 @@
-# JavaScript - React - Redux - demo ecommerce website
+# JavaScript - React - Redux - ecommerce website
 
 A single page web app created with ReactJS that presents dynamic content to the user.
 
-## Demo
+## Deployment
 
 You can access the project online at:
 
