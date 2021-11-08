@@ -1,71 +1,41 @@
-# Getting Started with Create React App
+# JavaScript - React - Redux - demo ecommerce website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A single page web app created with ReactJS that presents dynamic content to the user.
 
-## Available Scripts
+## Demo
 
-In the project directory, you can run:
+You can access the project online at:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technologies used
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* React javascript
 
-### `npm test`
+* React Router for client-side rendering and dynamic routing.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Redux for state management
 
-### `npm run build`
+* Bootstrap to apply CSS rules with class selectors
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Firebase API for user authentication
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Redux Thunk to make asynchronous requests needed in the login process.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Functionalities
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* Click on any category to display products
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Add product to shopping cart or favorites list
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* Click the shopping cart icon or favorites icon from the top right to view the cart or favorite products
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Add/remove product from cart or favorites
 
-## Learn More
+* Increase/decrease quantity for each product
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Empty cart or favorites or add all favorites to cart
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* Searchbar that will display search results based on the search term
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-single-page-web-app
+* Filter products based on price range
